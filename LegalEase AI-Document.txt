@@ -1,0 +1,105 @@
+**MUTUAL NON-DISCLOSURE AGREEMENT**
+
+---
+
+### 1. TITLE
+**MUTUAL NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT**
+
+---
+
+### 2. INTRODUCTION
+This Mutual Non-Disclosure Agreement (this **"Agreement"**) is entered into and made effective as of **September 30, 2026** (the **"Effective Date"**), by and between:
+
+* **ABC Company**, a corporation organized and existing under the laws of [State/Jurisdiction], having its principal place of business at [Address of ABC Company] (hereinafter referred to as **"ABC Company"**); and
+* **XYZ Company**, a corporation organized and existing under the laws of [State/Jurisdiction], having its principal place of business at [Address of XYZ Company] (hereinafter referred to as **"XYZ Company"**).
+
+ABC Company and XYZ Company may collectively be referred to as the **"Parties"**, or individually as a **"Party"**.
+
+**RECITALS**
+WHEREAS, the Parties wish to explore and engage in business discussions concerning a potential commercial collaboration or transaction (the **"Purpose"**); and
+
+WHEREAS, in connection with the Purpose, each Party may disclose to the other certain proprietary and non-public business information, data, trade secrets, and other confidential materials; and
+
+WHEREAS, the Parties desire to define the terms and conditions under which such confidential information shall be disclosed, handled, and protected.
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants, and conditions contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+---
+
+### 3. DEFINITIONS
+3.1. **"Confidential Information"** shall mean any and all technical, non-technical, financial, operational, commercial, strategic, or business information disclosed by or on behalf of one Party (the **"Disclosing Party"**) to the other Party (the **"Receiving Party"**), whether disclosed orally, visually, electronically, or in tangible form (including documents, prototypes, software, or samples), whether or not marked as "Confidential" or "Proprietary", that a reasonable person would understand to be confidential given the nature of the information or the circumstances of disclosure.
+
+3.2. **"Representative"** shall mean a Party’s directors, officers, employees, legal counsel, accountants, and financial advisors who have a direct need to know the Confidential Information for the Purpose.
+
+3.3. **"Exclusions"**: Confidential Information shall not include information that:
+  a. is or becomes publicly known through no breach of this Agreement by the Receiving Party;  
+  b. was already in the rightful possession of the Receiving Party prior to disclosure by the Disclosing Party, without confidentiality restrictions;  
+  c. is independently developed by the Receiving Party without reference to or reliance upon the Disclosing Party's Confidential Information; or  
+  d. is rightfully received from a third party who is not bound by an obligation of confidentiality to the Disclosing Party.
+
+---
+
+### 4. TERMS AND CONDITIONS
+4.1. **Ownership**: All Confidential Information remains the exclusive property of the Disclosing Party. Nothing in this Agreement grants, conveys, or implies any license, patent, trademark, copyright, or other intellectual property right to the Receiving Party.
+
+4.2. **Scope of Use**: The Receiving Party agrees to use the Disclosing Party’s Confidential Information solely and exclusively for the Purpose and shall not exploit such information for its own commercial gain or for any other purpose without the prior express written consent of the Disclosing Party.
+
+4.3. **No Warranty**: All Confidential Information is provided "AS IS," without warranty of any kind, express or implied, regarding its accuracy, completeness, or performance.
+
+---
+
+### 5. OBLIGATIONS
+5.1. **Standard of Care**: The Receiving Party shall protect the Disclosing Party’s Confidential Information using at least the same degree of care it uses to protect its own confidential information of a similar nature, but in no event less than a reasonable standard of care.
+
+5.2. **Limitation on Reproduction**: The Receiving Party shall not copy, duplicate, or reproduce any Confidential Information, except as strictly necessary to fulfill the Purpose. All copies made shall bear the same proprietary markings and notices as the original.
+
+5.3. **Notice of Breach**: The Receiving Party shall immediately notify the Disclosing Party in writing upon discovering any unauthorized disclosure, misuse, or loss of Confidential Information and shall cooperate in all reasonable efforts to mitigate and remedy such breach.
+
+---
+
+### 6. CONFIDENTIALITY CLAUSE
+6.1. **Non-Disclosure to Third Parties**: The Receiving Party covenants and agrees that it shall **not** disclose, publish, disseminate, or transfer any Confidential Information of the Disclosing Party to any third party without obtaining prior written authorization from an authorized representative of the Disclosing Party.
+
+6.2. **Permitted Disclosures**: 
+  a. The Receiving Party may disclose Confidential Information only to its Representatives who require access to such information solely for the Purpose, provided that each such Representative is informed of the confidential nature of the information and is bound by written confidentiality obligations no less restrictive than those set forth herein.  
+  b. The Receiving Party remains fully liable for any breach of this Agreement committed by its Representatives.
+
+6.3. **Legally Compelled Disclosure**: If the Receiving Party is required by valid court order, subpoena, or applicable regulatory authority to disclose any Confidential Information, the Receiving Party shall, to the extent legally permissible, provide prompt written notice to the Disclosing Party prior to disclosure, allowing the Disclosing Party sufficient time to seek a protective order or other appropriate legal remedy.
+
+---
+
+### 7. TERMINATION CLAUSE
+7.1. **Term**: This Agreement shall commence on the Effective Date and shall remain in effect for a period of two (2) years, unless terminated earlier by either Party upon thirty (30) days' prior written notice to the other Party.
+
+7.2. **Survival of Confidentiality**: Notwithstanding the termination or expiration of this Agreement, the obligations of confidentiality and non-disclosure set forth herein shall survive and remain binding upon the Receiving Party for a period of three (3) years from the date of termination, except with respect to trade secrets, which shall be protected indefinitely or for as long as permitted under applicable law.
+
+7.3. **Return or Destruction of Materials**: Upon the written request of the Disclosing Party or upon the termination of this Agreement, the Receiving Party shall promptly return or certify in writing the permanent destruction of all documents, files, records, and media containing or derived from the Disclosing Party’s Confidential Information, except for one archive copy retained solely for legal compliance purposes.
+
+---
+
+### 8. GOVERNING LAW
+8.1. **Applicable Law**: This Agreement shall be governed by, construed, and enforced in accordance with the substantive laws of [State/Jurisdiction], without regard to its conflict of law principles.
+
+8.2. **Jurisdiction & Venue**: The Parties irrevocably consent to the exclusive jurisdiction and venue of the state and federal courts located in [City, State/Jurisdiction] for the resolution of any dispute, claim, or controversy arising out of or relating to this Agreement.
+
+8.3. **Injunctive Relief**: The Parties acknowledge that any breach of this Agreement may cause irreparable harm for which monetary damages alone would be inadequate. Consequently, the Disclosing Party shall be entitled to seek equitable and injunctive relief in any court of competent jurisdiction, without the necessity of posting a bond, in addition to any other remedies available at law or in equity.
+
+---
+
+### 9. SIGNATURE SECTION
+IN WITNESS WHEREOF, the Parties have executed this Mutual Non-Disclosure Agreement through their duly authorized representatives as of the Effective Date written above.
+
+**FOR ABC COMPANY:**
+
+By: _____________________________________________  
+Name: ___________________________________________  
+Title: ____________________________________________  
+Date: ____________________________________________  
+
+
+**FOR XYZ COMPANY:**
+
+By: _____________________________________________  
+Name: ___________________________________________  
+Title: ____________________________________________  
+Date: ____________________________________________
